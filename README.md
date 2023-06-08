@@ -1,7 +1,7 @@
 <h1 align="center">Oi , eu sou Daniel</h1>
 <h3 align="center">Um Desenvolvedor Frontend do Brasil</h3>
 
-<img src="https://i.pinimg.com/originals/fc/5a/20/fc5a2025b338cc8da83f50a15a1052b9.gif" align="rigth" alt="robot" width="400"/> 
+<img src="https://media.tenor.com/dL7emNpiR8cAAAAd/mr-robot-elliot.gif" align="rigth" alt="robot" width="400">/ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-dev-32&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-dev-32" /> </p>
 
